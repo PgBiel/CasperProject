@@ -1,0 +1,3 @@
+[submodule "src/discord.js"]
+	path = src/discord.js
+	url = https://github.com/hydrabolt/discord.js
